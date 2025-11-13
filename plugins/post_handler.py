@@ -18,7 +18,7 @@ from utils import temp
 logger = logging.getLogger(__name__)
 post_sessions = {}
 
-BOT_NAME = filestreamkr1bot
+BOT_NAME = temp.U_NAME
 USE_GETFILE_BUTTON_BY_DEFAULT = True
 DEFAULT_WATERMARK = "Join [Filestore4u](https://t.me/Filestore4u)"
 LANGUAGES_FORMAT = "➥ <b>Languages :</b> <code>{langs}</code>"
